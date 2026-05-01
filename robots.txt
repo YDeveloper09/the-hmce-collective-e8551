@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YDeveloper09.github.io/the-hmce-collective-e8551/sitemap.xml
+Sitemap: https://the-hmce-collective-e8551.pages.dev/sitemap.xml
